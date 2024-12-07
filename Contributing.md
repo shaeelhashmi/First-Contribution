@@ -11,10 +11,6 @@ Thank you for your interest in contributing to this repository! Follow these ste
   ```bash
   git clone https://github.com/<your-username>/<repository-name>.git
   ```
-- Go into the project folder
-  ```bash
-  cd <repository-name>
-  ```
 ## step 3: Set upstream branch:
 - Set the upstream branch for your fork to stay in sync with the original repository:
   ```bash
@@ -30,14 +26,13 @@ Thank you for your interest in contributing to this repository! Follow these ste
 ## Step 5: Commit Your Changes
 - Stage your changes:
   ```bash
-  git add .
+  git add README.md
   ```
-- In the commit message if you type your name in the readme.md file then type "added name in readme.md file".
-- if you fixed some error in the contributing.md file type "Fixed contributing.md"
 - Commit the changes with a clear message:
   ```bash
-  git commit -m <Your Commit Message>
+  git commit -m "Added my GitHub username to README.md"
   ```
+
 ## Step 6: Sync Your Changes and Push
 - Fetch the latest changes from the upstream repository:
   ```bash
